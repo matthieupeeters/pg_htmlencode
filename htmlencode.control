@@ -1,0 +1,4 @@
+default_version = '0.0.1'
+module_pathname = '$libdir/htmlencode'
+comment = 'Fast htmlencode of the most common entities.'
+relocatable = true
