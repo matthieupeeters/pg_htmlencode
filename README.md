@@ -12,6 +12,8 @@ and leaves the rest alone.
 
 ## Installation:
 
+```
 git clone https://github.com/matthieupeeters/pg_htmlencode
-
-
+make USE_PGXS=1 
+sudo make USE_PGXS=1 install
+```
